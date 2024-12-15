@@ -44,3 +44,8 @@ First, there's all of these. Copy/pasted on December 12th, 2024 from Thorsten Ba
 - Always keep an eye out for bugs.
 
 - Make it a goal that people want to work with you.
+
+(end of list from Thorsten)
+
+## Others
+- You get better at what you practice, and everything is practice. Consider this, especially in the midst of action otherwise experienced as habitual.
