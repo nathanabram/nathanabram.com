@@ -1,8 +1,7 @@
 # Principals
 Stated as advice for myself, these are principals that I stand by. To put them here and not follow-through on them would be embarrasing, wouldn't it? 
-Thus, in sharing, I hope to innoculate myself against the slippage of the standards and practices herein. 
-
-Also, having them here means I'll probably actually look at them again, unlike much of my personal data. But that's another issue. 
+In sharing, I aim to innoculate myself against the slippage of the standards and practices herein. 
+_Also, having them here means I'll probably actually look at them again, unlike much of my personal data. But that's another issue._
 
 
 First, there's all of these. Copy/pasted on December 12th, 2024 from Thorsten Ball's post titled "The Basics." At this time I have not edited the wording from Thorsten's original.
