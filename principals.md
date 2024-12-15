@@ -1,6 +1,6 @@
 # Principals
 Stated as advice for myself, these are principals that I stand by. To put them here and not follow-through on them would be embarrasing, wouldn't it? 
-So in sharing them here, I hope to innoculate myself against the slippage of the standards and practices herein. 
+Thus, in sharing, I hope to innoculate myself against the slippage of the standards and practices herein. 
 
 Also, having them here means I'll probably actually look at them again, unlike much of my personal data. But that's another issue. 
 
