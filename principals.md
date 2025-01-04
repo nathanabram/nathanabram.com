@@ -54,4 +54,5 @@ First, there's all of these. Copy/pasted on December 12th, 2024 from Thorsten Ba
 - Have a plan. You can always change plans.
 - Write messages in the past tense (e.g. 'I have done xyz'). Then see that the statement true.
 - Prefer gratitude over apology. 
-- Prefer asking advice over asking permission. 
+- Prefer asking advice over asking permission.
+- Focus on outcomes. 
