@@ -50,7 +50,10 @@ First, there's all of these. Copy/pasted on December 12th, 2024 from Thorsten Ba
 - You get better at what you practice, and everything is practice. Consider this, especially in the midst of action otherwise experienced as habitual.
 - Some things just work, yet are easy to skip when in the midst of life. Put your phone away. Use one sheet of paper for the days tasks. Use an alarm to wake yourself up at the same time everday.
 - Practicing near skills shows little transferability—even things close the actual thing aren’t that helpful. So, focus on doing "the real thing"—getting the result you are looking for. The actions to do that may differ greatly from what you imagined.
+- Do everything ASAP.
+- Have a plan. You can always change plans.
 
 ### Tricks
-- Write messages in the past tense (e.g. 'I have done xyz'). Then see that the statement true before sending. IRL integration test!
-- 
+- Write messages in the past tense (e.g. 'I have done xyz'). Then see that the statement true.
+- Prefer gratitude over apology. 
+- Prefer asking advice over asking permission. 
