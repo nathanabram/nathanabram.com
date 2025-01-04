@@ -52,8 +52,6 @@ First, there's all of these. Copy/pasted on December 12th, 2024 from Thorsten Ba
 - Practicing near skills shows little transferability—even things close the actual thing aren’t that helpful. So, focus on doing "the real thing"—getting the result you are looking for. The actions to do that may differ greatly from what you imagined.
 - Do everything ASAP.
 - Have a plan. You can always change plans.
-
-### Tricks
 - Write messages in the past tense (e.g. 'I have done xyz'). Then see that the statement true.
 - Prefer gratitude over apology. 
 - Prefer asking advice over asking permission. 
